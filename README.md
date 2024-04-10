@@ -1,7 +1,7 @@
-# BootcampDio
+ BootcampDio
 
 
-## Introdução ao Desenvolvimento Moderno de Software
+ Introdução ao Desenvolvimento Moderno de Software
 
 DIO Bank
 
@@ -12,13 +12,13 @@ online. Ou seja, praticamente tudo que o cliente
 precisa é feito por um celular via aplicativo ou
 no computador via Browser.
 
-## Sistema Desktop X Sistema Web
+Sistema Desktop X Sistema Web
 
 Ao iniciar o desenvolvimento de um software, o primeiro passo
 é definir a(s) plataforma(s) onde este software será executado.
 
 
-## Sistema Desktop
+Sistema Desktop
 
 Sistemas desktop são sistemas
 autônomos que podem ser
@@ -28,7 +28,7 @@ por um arquivo executável. Como
 exemplo, temos o Microsoft Word,
 Microsoft Excel, Anti vírus e jogos.
 
-## Sistema Web Sistemas
+Sistema Web Sistemas
 
 Sistemas baseados em tecnologia
 web, podendo ser utilizados
@@ -37,7 +37,7 @@ navegador de internet, sem a
 necessidade de instalação e
 atualização local.
 
-## E as aplicações móveis?
+E as aplicações móveis?
 
 Uma aplicação móvel ou
 aplicativo mobile é um software
@@ -47,7 +47,7 @@ baixado de uma loja on line, como
 Google Play ou App Store, direto
 para o seu dispositivo portátil.
 
-## UX Design (User Experience)
+UX Design (User Experience)
 
 O design da experiência do
 usuário (ou UX design) é o
