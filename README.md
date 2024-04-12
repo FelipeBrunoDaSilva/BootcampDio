@@ -1,10 +1,6 @@
- BootcampDio
-
-
  Introdução ao Desenvolvimento Moderno de Software
 
 DIO Bank
-
 
 Bancos digitais são instituições financeiras que
 executam suas atividades de forma 100%
@@ -16,7 +12,6 @@ Sistema Desktop X Sistema Web
 
 Ao iniciar o desenvolvimento de um software, o primeiro passo
 é definir a(s) plataforma(s) onde este software será executado.
-
 
 Sistema Desktop
 
